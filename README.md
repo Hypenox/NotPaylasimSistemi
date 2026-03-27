@@ -3,7 +3,7 @@
 
 - CLAUDE AI kullanılarak yapılmıştır.
 - Projeyi kendinizi geliştirmek veya notlar kaydetmek için kullanabilirsiniz.
-- Projeyi yayınlayacaksanız github adımı projenin en alt kısmına görünebilecek bir köşesine eklemeyi unutmayın.
+- Projeyi kendiniz yayınlayacaksanız lisansı kendi dilinize çevirip okumayı unutmayın.
 
 
 
